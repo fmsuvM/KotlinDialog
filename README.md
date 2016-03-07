@@ -1,0 +1,2 @@
+#KotlinDialog
+Javaで書いたAndroidプログラムがKotlinだとどんな感じになるかのテストプログラム. しばらく書き続けるつもりです. 基本的にはjava mainで, そのあと変換という感じです.
